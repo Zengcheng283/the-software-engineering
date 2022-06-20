@@ -423,5 +423,3 @@ Mills（1972）开发了一种称为错误播种（fault seeding）或错误播�
 		例如，当我们进行语句、路径或分支测试时，我们可以跟踪需要执行的状态、路径或分支的数量，并根据剩余的语句、路径或分支的数量来确定测试进度。
 
 ### 8.8.4_识别易出错代码（Identifying Fault-Prone Code）
-
-*XMind: ZEN - Trial Version*
