@@ -477,5 +477,3 @@
 - 架构扩展和收回（Architecture Extensions and Retractions）
 
 ### 5.10.4_产品线演变（Product-Line Evolution）
-
-*XMind: ZEN - Trial Version*
