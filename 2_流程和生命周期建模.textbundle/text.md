@@ -265,5 +265,3 @@ Balzer的转换模型（transformational model）试图通过取消几个主要�
 - 支持流程管理
 - 在执行过程中提供自动指导
 - 支持自动化流程执行
-
-*XMind: ZEN - Trial Version*
