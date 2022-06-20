@@ -418,5 +418,3 @@
 ### 数据建模
 
 ### 原则
-
-*XMind: ZEN - Trial Version*
