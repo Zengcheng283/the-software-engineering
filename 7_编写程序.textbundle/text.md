@@ -212,5 +212,3 @@
 ### 7.4.4_在哪里编程（Whither Programming）
 
 与几乎所有事情一样，答案可能是“一切都要适度”。
-
-*XMind: ZEN - Trial Version*
