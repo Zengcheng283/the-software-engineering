@@ -11,8 +11,8 @@
 
 [第五章](https://github.com/Zengcheng283/the-software-engineering/blob/main/5_%E8%AE%BE%E8%AE%A1%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84.textbundle/text.md).设计体系结构
 
-[第六章](https://github.com/Zengcheng283/the-software-engineering/blob/main/6_%E6%A8%A1%E5%9D%97%E8%AE%BE%E8%AE%A1.textbundle/text.md).模块设计
+[第六章](./6_%E6%A8%A1%E5%9D%97%E8%AE%BE%E8%AE%A1.textbundle/text.md).模块设计
 
 第七章.编写程序
 
-第八章.测试程序
+[第八章]（./8_%E6%B5%8B%E8%AF%95%E7%A8%8B%E5%BA%8F.textbundle/text.md）.测试程序
