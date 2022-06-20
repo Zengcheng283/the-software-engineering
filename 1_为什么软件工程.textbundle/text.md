@@ -365,5 +365,3 @@
 	- 控制集成（Control Integration）
 
 	  一种工具通知另一种工具并在另一种工具中启动操作的能力
-
-*XMind: ZEN - Trial Version*
